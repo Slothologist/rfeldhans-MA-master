@@ -8,6 +8,7 @@ The repository containing the latex source files (and a .pdf) can be found [here
 Additional information/ requirements may be found in [this repositories wiki](https://github.com/Slothologist/MA-master/wiki).
 In detail, there can be found...
 - [User stories](https://github.com/Slothologist/MA-master/wiki/User-stories) 
+- [A list of the features of the pipeline](https://github.com/Slothologist/MA-master/wiki/User-stories)
 
 # Code
 The main repository for the library can be found [here](https://github.com/Slothologist/esiaf_ros).
