@@ -7,6 +7,7 @@ The repository containing the latex source files (and a .pdf) can be found [here
 # Wiki 
 Additional information/ requirements may be found in [this repositories wiki](https://github.com/Slothologist/MA-master/wiki).
 In detail, there can be found...
+- [Use Cases](https://github.com/Slothologist/rfeldhans-MA-master/wiki/Use-Cases)
 - [User stories](https://github.com/Slothologist/MA-master/wiki/User-stories) 
 - [A list of the features of the pipeline](https://github.com/Slothologist/MA-master/wiki/Features---comparison)
 
