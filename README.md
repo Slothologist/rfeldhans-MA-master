@@ -11,6 +11,7 @@ In detail, there can be found...
 - [User stories](https://github.com/Slothologist/MA-master/wiki/User-stories) 
 - [A list of the features of the pipeline](https://github.com/Slothologist/MA-master/wiki/Features---comparison)
 - [Which problems the ma tries to solve, how they will be solved and how the solution(s) will be evaluated](https://github.com/Slothologist/rfeldhans-MA-master/wiki/Problems-to-solve-and-how-to-solve-them-and-evaluate-the-solution)
+- [A list of potential components for the pipeline](https://github.com/Slothologist/rfeldhans-MA-master/wiki/Potential-Components)
 
 # Code
 The main repository for the library can be found [here](https://github.com/Slothologist/esiaf_ros).
