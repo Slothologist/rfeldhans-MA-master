@@ -1,0 +1,5912 @@
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215980
+        nsecs: 653777545
+      finish: 
+        secs: 1566215982
+        nsecs: 654109151
+    hypotheses: 
+      - 
+        recognizedSpeech: ''
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215980
+        nsecs: 528975963
+      finish: 
+        secs: 1566215980
+        nsecs: 653778076
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215980
+        nsecs: 653778076
+      finish: 
+        secs: 1566215980
+        nsecs: 779608964
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215980
+        nsecs: 779608964
+      finish: 
+        secs: 1566215980
+        nsecs: 905255079
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215980
+        nsecs: 905255079
+      finish: 
+        secs: 1566215981
+        nsecs:  27818918
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215981
+        nsecs:  27818918
+      finish: 
+        secs: 1566215981
+        nsecs: 152837038
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215981
+        nsecs: 152837038
+      finish: 
+        secs: 1566215981
+        nsecs: 279510021
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 176.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215981
+        nsecs: 279510021
+      finish: 
+        secs: 1566215981
+        nsecs: 404898881
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215981
+        nsecs: 404898881
+      finish: 
+        secs: 1566215981
+        nsecs: 529536008
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215981
+        nsecs: 529536008
+      finish: 
+        secs: 1566215981
+        nsecs: 653753042
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215981
+        nsecs: 653753042
+      finish: 
+        secs: 1566215981
+        nsecs: 778449058
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215981
+        nsecs: 778449058
+      finish: 
+        secs: 1566215981
+        nsecs: 903147935
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 355.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215981
+        nsecs: 903147935
+      finish: 
+        secs: 1566215982
+        nsecs:  27725934
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215982
+        nsecs:  27725934
+      finish: 
+        secs: 1566215982
+        nsecs: 153472900
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215982
+        nsecs: 153472900
+      finish: 
+        secs: 1566215982
+        nsecs: 403908014
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215982
+        nsecs: 403908014
+      finish: 
+        secs: 1566215982
+        nsecs: 528827905
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215982
+        nsecs: 528827905
+      finish: 
+        secs: 1566215982
+        nsecs: 654109001
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 355.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215982
+        nsecs: 654109001
+      finish: 
+        secs: 1566215982
+        nsecs: 778173923
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215982
+        nsecs: 654109151
+      finish: 
+        secs: 1566215983
+        nsecs: 905665695
+    hypotheses: 
+      - 
+        recognizedSpeech: "which room is the bed"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs: 153187036
+      finish: 
+        secs: 1566215983
+        nsecs: 277574062
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs: 277574062
+      finish: 
+        secs: 1566215983
+        nsecs: 403454065
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 355.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs: 403454065
+      finish: 
+        secs: 1566215983
+        nsecs: 527833938
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 349.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs: 527833938
+      finish: 
+        secs: 1566215983
+        nsecs: 652488946
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs: 652488946
+      finish: 
+        secs: 1566215983
+        nsecs: 777301073
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs: 777301073
+      finish: 
+        secs: 1566215983
+        nsecs: 905666112
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs: 905666112
+      finish: 
+        secs: 1566215984
+        nsecs:  27415037
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 349.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215982
+        nsecs: 528827905
+      finish: 
+        secs: 1566215982
+        nsecs: 654109001
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 355.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215982
+        nsecs: 654109001
+      finish: 
+        secs: 1566215982
+        nsecs: 778173923
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215982
+        nsecs: 778173923
+      finish: 
+        secs: 1566215982
+        nsecs: 903198957
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 316.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215982
+        nsecs: 903198957
+      finish: 
+        secs: 1566215983
+        nsecs:  28203010
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs:  28203010
+      finish: 
+        secs: 1566215983
+        nsecs: 153187036
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs: 905665695
+      finish: 
+        secs: 1566215984
+        nsecs: 902489652
+    hypotheses: 
+      - 
+        recognizedSpeech: ''
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs: 777301073
+      finish: 
+        secs: 1566215983
+        nsecs: 905666112
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215983
+        nsecs: 905666112
+      finish: 
+        secs: 1566215984
+        nsecs:  27415037
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 349.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215984
+        nsecs:  27415037
+      finish: 
+        secs: 1566215984
+        nsecs: 152301073
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 41.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215984
+        nsecs: 152301073
+      finish: 
+        secs: 1566215984
+        nsecs: 279078006
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 46.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215984
+        nsecs: 279078006
+      finish: 
+        secs: 1566215984
+        nsecs: 402115106
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 313.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215984
+        nsecs: 402115106
+      finish: 
+        secs: 1566215984
+        nsecs: 527127027
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 36.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215984
+        nsecs: 527127027
+      finish: 
+        secs: 1566215984
+        nsecs: 653126955
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 33.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215984
+        nsecs: 653126955
+      finish: 
+        secs: 1566215984
+        nsecs: 777827024
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 36.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215984
+        nsecs: 777827024
+      finish: 
+        secs: 1566215984
+        nsecs: 902489900
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 40.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215984
+        nsecs: 902489900
+      finish: 
+        secs: 1566215985
+        nsecs:  27133941
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 36.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215985
+        nsecs: 654333908
+      finish: 
+        secs: 1566215988
+        nsecs: 903304257
+    hypotheses: 
+      - 
+        recognizedSpeech: "between the orange and paprika which one is bigger"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215985
+        nsecs: 529047966
+      finish: 
+        secs: 1566215985
+        nsecs: 654334068
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215985
+        nsecs: 654334068
+      finish: 
+        secs: 1566215985
+        nsecs: 777080059
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215985
+        nsecs: 777080059
+      finish: 
+        secs: 1566215985
+        nsecs: 903822898
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215985
+        nsecs: 903822898
+      finish: 
+        secs: 1566215986
+        nsecs:  28820991
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215986
+        nsecs:  28820991
+      finish: 
+        secs: 1566215986
+        nsecs: 153731107
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215986
+        nsecs: 153731107
+      finish: 
+        secs: 1566215986
+        nsecs: 278633117
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215986
+        nsecs: 278633117
+      finish: 
+        secs: 1566215986
+        nsecs: 403320074
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 177.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215986
+        nsecs: 403320074
+      finish: 
+        secs: 1566215986
+        nsecs: 529473066
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215986
+        nsecs: 529473066
+      finish: 
+        secs: 1566215986
+        nsecs: 657104015
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215986
+        nsecs: 657104015
+      finish: 
+        secs: 1566215986
+        nsecs: 779170989
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215986
+        nsecs: 779170989
+      finish: 
+        secs: 1566215986
+        nsecs: 903620958
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215986
+        nsecs: 903620958
+      finish: 
+        secs: 1566215987
+        nsecs:  28398036
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215987
+        nsecs:  28398036
+      finish: 
+        secs: 1566215987
+        nsecs: 153134107
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215987
+        nsecs: 153134107
+      finish: 
+        secs: 1566215987
+        nsecs: 278458118
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 355.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215987
+        nsecs: 278458118
+      finish: 
+        secs: 1566215987
+        nsecs: 402931928
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215987
+        nsecs: 402931928
+      finish: 
+        secs: 1566215987
+        nsecs: 527484893
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 317.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215987
+        nsecs: 527484893
+      finish: 
+        secs: 1566215987
+        nsecs: 778057098
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215987
+        nsecs: 778057098
+      finish: 
+        secs: 1566215987
+        nsecs: 902430057
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215987
+        nsecs: 902430057
+      finish: 
+        secs: 1566215988
+        nsecs:  27065992
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215988
+        nsecs:  27065992
+      finish: 
+        secs: 1566215988
+        nsecs: 152123928
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215988
+        nsecs: 152123928
+      finish: 
+        secs: 1566215988
+        nsecs: 279453992
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215988
+        nsecs: 279453992
+      finish: 
+        secs: 1566215988
+        nsecs: 404201030
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215988
+        nsecs: 404201030
+      finish: 
+        secs: 1566215988
+        nsecs: 528672933
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215988
+        nsecs: 528672933
+      finish: 
+        secs: 1566215988
+        nsecs: 653316974
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215988
+        nsecs: 653316974
+      finish: 
+        secs: 1566215988
+        nsecs: 779150962
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 315.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215988
+        nsecs: 779150962
+      finish: 
+        secs: 1566215988
+        nsecs: 903304100
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 181.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215988
+        nsecs: 903304100
+      finish: 
+        secs: 1566215989
+        nsecs:  27527093
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 38.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215990
+        nsecs: 653062575
+      finish: 
+        secs: 1566215991
+        nsecs: 902148761
+    hypotheses: 
+      - 
+        recognizedSpeech: "what is a chatbot"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215991
+        nsecs: 277071952
+      finish: 
+        secs: 1566215991
+        nsecs: 403985023
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215991
+        nsecs: 403985023
+      finish: 
+        secs: 1566215991
+        nsecs: 527030944
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215991
+        nsecs: 527030944
+      finish: 
+        secs: 1566215991
+        nsecs: 651998996
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215991
+        nsecs: 651998996
+      finish: 
+        secs: 1566215991
+        nsecs: 777770996
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215991
+        nsecs: 777770996
+      finish: 
+        secs: 1566215991
+        nsecs: 902148962
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215991
+        nsecs: 902148962
+      finish: 
+        secs: 1566215992
+        nsecs:  27081012
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 41.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215990
+        nsecs: 528728008
+      finish: 
+        secs: 1566215990
+        nsecs: 653063058
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 38.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215990
+        nsecs: 653063058
+      finish: 
+        secs: 1566215990
+        nsecs: 779316902
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215990
+        nsecs: 779316902
+      finish: 
+        secs: 1566215990
+        nsecs: 903310060
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215990
+        nsecs: 903310060
+      finish: 
+        secs: 1566215991
+        nsecs:  27561902
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215991
+        nsecs:  27561902
+      finish: 
+        secs: 1566215991
+        nsecs: 152122974
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215991
+        nsecs: 152122974
+      finish: 
+        secs: 1566215991
+        nsecs: 277071952
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215993
+        nsecs: 527665768
+      finish: 
+        secs: 1566215995
+        nsecs: 154919979
+    hypotheses: 
+      - 
+        recognizedSpeech: "what is a chatbot"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215993
+        nsecs: 403532981
+      finish: 
+        secs: 1566215993
+        nsecs: 527666091
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 315.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215993
+        nsecs: 527666091
+      finish: 
+        secs: 1566215993
+        nsecs: 653079032
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 316.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215993
+        nsecs: 653079032
+      finish: 
+        secs: 1566215993
+        nsecs: 778017044
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215993
+        nsecs: 778017044
+      finish: 
+        secs: 1566215993
+        nsecs: 902637958
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215993
+        nsecs: 902637958
+      finish: 
+        secs: 1566215994
+        nsecs:  28352022
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215994
+        nsecs:  28352022
+      finish: 
+        secs: 1566215994
+        nsecs: 153368949
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215994
+        nsecs: 153368949
+      finish: 
+        secs: 1566215994
+        nsecs: 277025938
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 45.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215994
+        nsecs: 277025938
+      finish: 
+        secs: 1566215994
+        nsecs: 402106046
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215994
+        nsecs: 402106046
+      finish: 
+        secs: 1566215994
+        nsecs: 528179883
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215994
+        nsecs: 528179883
+      finish: 
+        secs: 1566215994
+        nsecs: 652686119
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215994
+        nsecs: 652686119
+      finish: 
+        secs: 1566215994
+        nsecs: 777348041
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 44.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215994
+        nsecs: 777348041
+      finish: 
+        secs: 1566215994
+        nsecs: 904139995
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215994
+        nsecs: 904139995
+      finish: 
+        secs: 1566215995
+        nsecs:  29014110
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 48.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215995
+        nsecs:  29014110
+      finish: 
+        secs: 1566215995
+        nsecs: 154920101
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 35.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215995
+        nsecs: 154920101
+      finish: 
+        secs: 1566215995
+        nsecs: 277968883
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 319.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215996
+        nsecs: 527414965
+      finish: 
+        secs: 1566215999
+        nsecs: 279095047
+    hypotheses: 
+      - 
+        recognizedSpeech: "where is the bookcase located"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566215996
+        nsecs: 405292987
+      finish: 
+        secs: 1566215996
+        nsecs: 527415037
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215996
+        nsecs: 527415037
+      finish: 
+        secs: 1566215996
+        nsecs: 654448986
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 355.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215996
+        nsecs: 654448986
+      finish: 
+        secs: 1566215996
+        nsecs: 778893947
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215996
+        nsecs: 778893947
+      finish: 
+        secs: 1566215996
+        nsecs: 903721094
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215996
+        nsecs: 903721094
+      finish: 
+        secs: 1566215997
+        nsecs:  28502941
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 177.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215997
+        nsecs:  28502941
+      finish: 
+        secs: 1566215997
+        nsecs: 152693986
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215997
+        nsecs: 152693986
+      finish: 
+        secs: 1566215997
+        nsecs: 277761936
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215997
+        nsecs: 277761936
+      finish: 
+        secs: 1566215997
+        nsecs: 402066946
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215997
+        nsecs: 402066946
+      finish: 
+        secs: 1566215997
+        nsecs: 529022932
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215997
+        nsecs: 529022932
+      finish: 
+        secs: 1566215997
+        nsecs: 653779983
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215997
+        nsecs: 653779983
+      finish: 
+        secs: 1566215997
+        nsecs: 778335094
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 42.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215997
+        nsecs: 778335094
+      finish: 
+        secs: 1566215997
+        nsecs: 902796983
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215997
+        nsecs: 902796983
+      finish: 
+        secs: 1566215998
+        nsecs:  27795076
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215998
+        nsecs:  27795076
+      finish: 
+        secs: 1566215998
+        nsecs: 153275012
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215998
+        nsecs: 153275012
+      finish: 
+        secs: 1566215998
+        nsecs: 403301954
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215998
+        nsecs: 403301954
+      finish: 
+        secs: 1566215998
+        nsecs: 527725934
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215998
+        nsecs: 527725934
+      finish: 
+        secs: 1566215998
+        nsecs: 653263092
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 46.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215998
+        nsecs: 653263092
+      finish: 
+        secs: 1566215998
+        nsecs: 779597043
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 39.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215998
+        nsecs: 779597043
+      finish: 
+        secs: 1566215998
+        nsecs: 904948949
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 319.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215998
+        nsecs: 904948949
+      finish: 
+        secs: 1566215999
+        nsecs:  29803991
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 319.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215999
+        nsecs:  29803991
+      finish: 
+        secs: 1566215999
+        nsecs: 154963016
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 324.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215999
+        nsecs: 154963016
+      finish: 
+        secs: 1566215999
+        nsecs: 279094934
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 33.0
+  - 
+    duration: 
+      start: 
+        secs: 1566215999
+        nsecs: 279094934
+      finish: 
+        secs: 1566215999
+        nsecs: 404128074
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216000
+        nsecs: 278529090
+      finish: 
+        secs: 1566216002
+        nsecs: 652743399
+    hypotheses: 
+      - 
+        recognizedSpeech: "where is the bookcase located"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216000
+        nsecs: 153521060
+      finish: 
+        secs: 1566216000
+        nsecs: 278528928
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216000
+        nsecs: 278528928
+      finish: 
+        secs: 1566216000
+        nsecs: 403143882
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216000
+        nsecs: 403143882
+      finish: 
+        secs: 1566216000
+        nsecs: 528047084
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216000
+        nsecs: 528047084
+      finish: 
+        secs: 1566216000
+        nsecs: 652493000
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216000
+        nsecs: 652493000
+      finish: 
+        secs: 1566216000
+        nsecs: 777874946
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216000
+        nsecs: 777874946
+      finish: 
+        secs: 1566216000
+        nsecs: 904129028
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216000
+        nsecs: 904129028
+      finish: 
+        secs: 1566216001
+        nsecs:  29606103
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216001
+        nsecs:  29606103
+      finish: 
+        secs: 1566216001
+        nsecs: 152548074
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216001
+        nsecs: 152548074
+      finish: 
+        secs: 1566216001
+        nsecs: 278084039
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216001
+        nsecs: 278084039
+      finish: 
+        secs: 1566216001
+        nsecs: 403856039
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216001
+        nsecs: 403856039
+      finish: 
+        secs: 1566216001
+        nsecs: 528529882
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216001
+        nsecs: 528529882
+      finish: 
+        secs: 1566216001
+        nsecs: 654340982
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216001
+        nsecs: 654340982
+      finish: 
+        secs: 1566216001
+        nsecs: 778527975
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216001
+        nsecs: 778527975
+      finish: 
+        secs: 1566216001
+        nsecs: 903951883
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216001
+        nsecs: 903951883
+      finish: 
+        secs: 1566216002
+        nsecs:  28541088
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216002
+        nsecs:  28541088
+      finish: 
+        secs: 1566216002
+        nsecs: 152697086
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216002
+        nsecs: 152697086
+      finish: 
+        secs: 1566216002
+        nsecs: 282807111
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 38.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216002
+        nsecs: 282807111
+      finish: 
+        secs: 1566216002
+        nsecs: 402498006
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 319.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216002
+        nsecs: 402498006
+      finish: 
+        secs: 1566216002
+        nsecs: 527591943
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 38.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216002
+        nsecs: 527591943
+      finish: 
+        secs: 1566216002
+        nsecs: 652743101
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216002
+        nsecs: 652743101
+      finish: 
+        secs: 1566216002
+        nsecs: 779133081
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 41.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216003
+        nsecs: 902083746
+      finish: 
+        secs: 1566216006
+        nsecs: 779773172
+    hypotheses: 
+      - 
+        recognizedSpeech: "how many objects are in the side table"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216003
+        nsecs: 776947975
+      finish: 
+        secs: 1566216003
+        nsecs: 902084112
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 44.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216003
+        nsecs: 902084112
+      finish: 
+        secs: 1566216004
+        nsecs:  28198957
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216004
+        nsecs:  28198957
+      finish: 
+        secs: 1566216004
+        nsecs: 152741909
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 355.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216004
+        nsecs: 152741909
+      finish: 
+        secs: 1566216004
+        nsecs: 277117013
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216004
+        nsecs: 277117013
+      finish: 
+        secs: 1566216004
+        nsecs: 405091047
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216004
+        nsecs: 405091047
+      finish: 
+        secs: 1566216004
+        nsecs: 527961969
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 355.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216004
+        nsecs: 527961969
+      finish: 
+        secs: 1566216004
+        nsecs: 652900934
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216004
+        nsecs: 652900934
+      finish: 
+        secs: 1566216004
+        nsecs: 777827978
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 349.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216004
+        nsecs: 777827978
+      finish: 
+        secs: 1566216004
+        nsecs: 905708074
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216004
+        nsecs: 905708074
+      finish: 
+        secs: 1566216005
+        nsecs:  27827978
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216005
+        nsecs:  27827978
+      finish: 
+        secs: 1566216005
+        nsecs: 152498960
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216005
+        nsecs: 152498960
+      finish: 
+        secs: 1566216005
+        nsecs: 280060052
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216005
+        nsecs: 280060052
+      finish: 
+        secs: 1566216005
+        nsecs: 402008056
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216005
+        nsecs: 402008056
+      finish: 
+        secs: 1566216005
+        nsecs: 528759002
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216005
+        nsecs: 528759002
+      finish: 
+        secs: 1566216005
+        nsecs: 654990911
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216005
+        nsecs: 654990911
+      finish: 
+        secs: 1566216005
+        nsecs: 778902053
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 53.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216005
+        nsecs: 778902053
+      finish: 
+        secs: 1566216005
+        nsecs: 906783103
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216005
+        nsecs: 906783103
+      finish: 
+        secs: 1566216006
+        nsecs:  27733087
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216006
+        nsecs:  27733087
+      finish: 
+        secs: 1566216006
+        nsecs: 156357049
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 181.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216006
+        nsecs: 156357049
+      finish: 
+        secs: 1566216006
+        nsecs: 280124902
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216006
+        nsecs: 280124902
+      finish: 
+        secs: 1566216006
+        nsecs: 403562068
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 38.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216006
+        nsecs: 403562068
+      finish: 
+        secs: 1566216006
+        nsecs: 531488895
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 318.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216006
+        nsecs: 531488895
+      finish: 
+        secs: 1566216006
+        nsecs: 654524087
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 318.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216006
+        nsecs: 654524087
+      finish: 
+        secs: 1566216006
+        nsecs: 779772996
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216006
+        nsecs: 779772996
+      finish: 
+        secs: 1566216006
+        nsecs: 904582977
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 319.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216008
+        nsecs:  29529043
+      finish: 
+        secs: 1566216011
+        nsecs:  29305264
+    hypotheses: 
+      - 
+        recognizedSpeech: "how many objects are in the side table"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216007
+        nsecs: 903107881
+      finish: 
+        secs: 1566216008
+        nsecs:  29529094
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216008
+        nsecs:  29529094
+      finish: 
+        secs: 1566216008
+        nsecs: 153743028
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216008
+        nsecs: 153743028
+      finish: 
+        secs: 1566216008
+        nsecs: 278518915
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 356.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216008
+        nsecs: 278518915
+      finish: 
+        secs: 1566216008
+        nsecs: 403068065
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216008
+        nsecs: 403068065
+      finish: 
+        secs: 1566216008
+        nsecs: 527621030
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216008
+        nsecs: 527621030
+      finish: 
+        secs: 1566216008
+        nsecs: 654568910
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216008
+        nsecs: 654568910
+      finish: 
+        secs: 1566216008
+        nsecs: 780009031
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216008
+        nsecs: 780009031
+      finish: 
+        secs: 1566216008
+        nsecs: 904541015
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216008
+        nsecs: 904541015
+      finish: 
+        secs: 1566216009
+        nsecs: 153609037
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 52.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216009
+        nsecs: 153609037
+      finish: 
+        secs: 1566216009
+        nsecs: 280426979
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216009
+        nsecs: 280426979
+      finish: 
+        secs: 1566216009
+        nsecs: 402513980
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216009
+        nsecs: 402513980
+      finish: 
+        secs: 1566216009
+        nsecs: 529568910
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216009
+        nsecs: 529568910
+      finish: 
+        secs: 1566216009
+        nsecs: 654721021
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216009
+        nsecs: 654721021
+      finish: 
+        secs: 1566216009
+        nsecs: 778477907
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216009
+        nsecs: 778477907
+      finish: 
+        secs: 1566216009
+        nsecs: 904069900
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216009
+        nsecs: 904069900
+      finish: 
+        secs: 1566216010
+        nsecs:  30307054
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216010
+        nsecs:  30307054
+      finish: 
+        secs: 1566216010
+        nsecs: 152878046
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216010
+        nsecs: 152878046
+      finish: 
+        secs: 1566216010
+        nsecs: 277631044
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216010
+        nsecs: 277631044
+      finish: 
+        secs: 1566216010
+        nsecs: 404014110
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 40.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216010
+        nsecs: 404014110
+      finish: 
+        secs: 1566216010
+        nsecs: 528685092
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 36.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216010
+        nsecs: 528685092
+      finish: 
+        secs: 1566216010
+        nsecs: 654167890
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 317.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216010
+        nsecs: 654167890
+      finish: 
+        secs: 1566216010
+        nsecs: 780520915
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 32.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216010
+        nsecs: 780520915
+      finish: 
+        secs: 1566216010
+        nsecs: 903187990
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 320.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216010
+        nsecs: 903187990
+      finish: 
+        secs: 1566216011
+        nsecs:  29304981
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 179.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216011
+        nsecs:  29304981
+      finish: 
+        secs: 1566216011
+        nsecs: 154401063
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 38.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216012
+        nsecs: 278179362
+      finish: 
+        secs: 1566216016
+        nsecs: 277651010
+    hypotheses: 
+      - 
+        recognizedSpeech: "tell me if the person pointing to the left was a female"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216015
+        nsecs: 903484106
+      finish: 
+        secs: 1566216016
+        nsecs:  28002977
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 39.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216016
+        nsecs:  28002977
+      finish: 
+        secs: 1566216016
+        nsecs: 152499914
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 321.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216016
+        nsecs: 152499914
+      finish: 
+        secs: 1566216016
+        nsecs: 277651071
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 321.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216016
+        nsecs: 277651071
+      finish: 
+        secs: 1566216016
+        nsecs: 402626037
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 40.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216012
+        nsecs: 152667045
+      finish: 
+        secs: 1566216012
+        nsecs: 278178930
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 39.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216012
+        nsecs: 278178930
+      finish: 
+        secs: 1566216012
+        nsecs: 404639959
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216012
+        nsecs: 404639959
+      finish: 
+        secs: 1566216012
+        nsecs: 528685092
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216012
+        nsecs: 528685092
+      finish: 
+        secs: 1566216012
+        nsecs: 653384923
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216012
+        nsecs: 653384923
+      finish: 
+        secs: 1566216012
+        nsecs: 777868032
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216012
+        nsecs: 777868032
+      finish: 
+        secs: 1566216012
+        nsecs: 903322935
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216012
+        nsecs: 903322935
+      finish: 
+        secs: 1566216013
+        nsecs:  29000997
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216013
+        nsecs:  29000997
+      finish: 
+        secs: 1566216013
+        nsecs: 152538061
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216013
+        nsecs: 152538061
+      finish: 
+        secs: 1566216013
+        nsecs: 277117013
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216013
+        nsecs: 277117013
+      finish: 
+        secs: 1566216013
+        nsecs: 404099941
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216013
+        nsecs: 404099941
+      finish: 
+        secs: 1566216013
+        nsecs: 529484987
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 42.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216013
+        nsecs: 529484987
+      finish: 
+        secs: 1566216013
+        nsecs: 654099941
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216013
+        nsecs: 654099941
+      finish: 
+        secs: 1566216013
+        nsecs: 778532981
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216013
+        nsecs: 778532981
+      finish: 
+        secs: 1566216013
+        nsecs: 903069019
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216013
+        nsecs: 903069019
+      finish: 
+        secs: 1566216014
+        nsecs:  29107093
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216014
+        nsecs:  29107093
+      finish: 
+        secs: 1566216014
+        nsecs: 153467893
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216014
+        nsecs: 153467893
+      finish: 
+        secs: 1566216014
+        nsecs: 403815031
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216014
+        nsecs: 403815031
+      finish: 
+        secs: 1566216014
+        nsecs: 530719041
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216014
+        nsecs: 530719041
+      finish: 
+        secs: 1566216014
+        nsecs: 652910947
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216014
+        nsecs: 652910947
+      finish: 
+        secs: 1566216014
+        nsecs: 777544975
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216014
+        nsecs: 777544975
+      finish: 
+        secs: 1566216014
+        nsecs: 902556896
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216014
+        nsecs: 902556896
+      finish: 
+        secs: 1566216015
+        nsecs:  27436017
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216015
+        nsecs:  27436017
+      finish: 
+        secs: 1566216015
+        nsecs: 155333042
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216015
+        nsecs: 155333042
+      finish: 
+        secs: 1566216015
+        nsecs: 277532100
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216015
+        nsecs: 277532100
+      finish: 
+        secs: 1566216015
+        nsecs: 405549049
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216015
+        nsecs: 405549049
+      finish: 
+        secs: 1566216015
+        nsecs: 532546997
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 39.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216015
+        nsecs: 532546997
+      finish: 
+        secs: 1566216015
+        nsecs: 653414011
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 35.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216015
+        nsecs: 653414011
+      finish: 
+        secs: 1566216015
+        nsecs: 779015064
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 36.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216015
+        nsecs: 779015064
+      finish: 
+        secs: 1566216015
+        nsecs: 903484106
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 45.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216017
+        nsecs:  28090893
+      finish: 
+        secs: 1566216021
+        nsecs: 277735773
+    hypotheses: 
+      - 
+        recognizedSpeech: "tell me if the person pointing to the left was a female"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216016
+        nsecs: 903563022
+      finish: 
+        secs: 1566216017
+        nsecs:  28090953
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 35.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216017
+        nsecs:  28090953
+      finish: 
+        secs: 1566216017
+        nsecs: 153110027
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216017
+        nsecs: 153110027
+      finish: 
+        secs: 1566216017
+        nsecs: 277103900
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216017
+        nsecs: 277103900
+      finish: 
+        secs: 1566216017
+        nsecs: 403209924
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216017
+        nsecs: 403209924
+      finish: 
+        secs: 1566216017
+        nsecs: 527900934
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216017
+        nsecs: 527900934
+      finish: 
+        secs: 1566216017
+        nsecs: 653166055
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216017
+        nsecs: 653166055
+      finish: 
+        secs: 1566216017
+        nsecs: 777523040
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216017
+        nsecs: 777523040
+      finish: 
+        secs: 1566216017
+        nsecs: 904107093
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216017
+        nsecs: 904107093
+      finish: 
+        secs: 1566216018
+        nsecs:  29835939
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216018
+        nsecs:  29835939
+      finish: 
+        secs: 1566216018
+        nsecs: 154867887
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216018
+        nsecs: 154867887
+      finish: 
+        secs: 1566216018
+        nsecs: 278141975
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216018
+        nsecs: 278141975
+      finish: 
+        secs: 1566216018
+        nsecs: 402920961
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 349.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216018
+        nsecs: 402920961
+      finish: 
+        secs: 1566216018
+        nsecs: 528500080
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216018
+        nsecs: 528500080
+      finish: 
+        secs: 1566216018
+        nsecs: 653078079
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 355.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216018
+        nsecs: 653078079
+      finish: 
+        secs: 1566216018
+        nsecs: 778425931
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216018
+        nsecs: 778425931
+      finish: 
+        secs: 1566216018
+        nsecs: 904154062
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216018
+        nsecs: 904154062
+      finish: 
+        secs: 1566216019
+        nsecs:  29522895
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216019
+        nsecs:  29522895
+      finish: 
+        secs: 1566216019
+        nsecs: 155143976
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216019
+        nsecs: 155143976
+      finish: 
+        secs: 1566216019
+        nsecs: 279181003
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216019
+        nsecs: 279181003
+      finish: 
+        secs: 1566216019
+        nsecs: 403788089
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216019
+        nsecs: 403788089
+      finish: 
+        secs: 1566216019
+        nsecs: 528980970
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216019
+        nsecs: 528980970
+      finish: 
+        secs: 1566216019
+        nsecs: 779377937
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216019
+        nsecs: 779377937
+      finish: 
+        secs: 1566216019
+        nsecs: 903814077
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216019
+        nsecs: 903814077
+      finish: 
+        secs: 1566216020
+        nsecs:  28434038
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216020
+        nsecs:  28434038
+      finish: 
+        secs: 1566216020
+        nsecs: 153069972
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 355.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216020
+        nsecs: 153069972
+      finish: 
+        secs: 1566216020
+        nsecs: 278510093
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216020
+        nsecs: 278510093
+      finish: 
+        secs: 1566216020
+        nsecs: 402686119
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216020
+        nsecs: 402686119
+      finish: 
+        secs: 1566216020
+        nsecs: 529463052
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 132.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216020
+        nsecs: 529463052
+      finish: 
+        secs: 1566216020
+        nsecs: 653748035
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 41.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216020
+        nsecs: 653748035
+      finish: 
+        secs: 1566216020
+        nsecs: 778752088
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216020
+        nsecs: 778752088
+      finish: 
+        secs: 1566216020
+        nsecs: 903172969
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 318.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216020
+        nsecs: 903172969
+      finish: 
+        secs: 1566216021
+        nsecs:  28510093
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 319.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216021
+        nsecs:  28510093
+      finish: 
+        secs: 1566216021
+        nsecs: 153666973
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 32.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216021
+        nsecs: 153666973
+      finish: 
+        secs: 1566216021
+        nsecs: 277735948
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 39.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216021
+        nsecs: 277735948
+      finish: 
+        secs: 1566216021
+        nsecs: 403079986
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 40.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216032
+        nsecs: 653679071
+      finish: 
+        secs: 1566216038
+        nsecs: 152984241
+    hypotheses: 
+      - 
+        recognizedSpeech: "which room is the desk"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216032
+        nsecs: 528101921
+      finish: 
+        secs: 1566216032
+        nsecs: 653678894
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216032
+        nsecs: 653678894
+      finish: 
+        secs: 1566216032
+        nsecs: 778100013
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 54.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216032
+        nsecs: 778100013
+      finish: 
+        secs: 1566216032
+        nsecs: 904580116
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216032
+        nsecs: 904580116
+      finish: 
+        secs: 1566216033
+        nsecs:  28753042
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216033
+        nsecs:  28753042
+      finish: 
+        secs: 1566216033
+        nsecs: 153821945
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 178.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216033
+        nsecs: 153821945
+      finish: 
+        secs: 1566216033
+        nsecs: 278491020
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216033
+        nsecs: 278491020
+      finish: 
+        secs: 1566216033
+        nsecs: 403526067
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216033
+        nsecs: 403526067
+      finish: 
+        secs: 1566216033
+        nsecs: 527962923
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216033
+        nsecs: 527962923
+      finish: 
+        secs: 1566216033
+        nsecs: 652915000
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216033
+        nsecs: 652915000
+      finish: 
+        secs: 1566216033
+        nsecs: 778419971
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216033
+        nsecs: 778419971
+      finish: 
+        secs: 1566216033
+        nsecs: 903629064
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 349.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216033
+        nsecs: 903629064
+      finish: 
+        secs: 1566216034
+        nsecs:  29593944
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 180.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216034
+        nsecs:  29593944
+      finish: 
+        secs: 1566216034
+        nsecs: 154650926
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 316.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216034
+        nsecs: 154650926
+      finish: 
+        secs: 1566216034
+        nsecs: 279062032
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 33.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216034
+        nsecs: 279062032
+      finish: 
+        secs: 1566216034
+        nsecs: 405080080
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 39.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216034
+        nsecs: 405080080
+      finish: 
+        secs: 1566216034
+        nsecs: 526983976
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 181.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216034
+        nsecs: 526983976
+      finish: 
+        secs: 1566216034
+        nsecs: 652122974
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 322.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216034
+        nsecs: 652122974
+      finish: 
+        secs: 1566216034
+        nsecs: 779210090
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216034
+        nsecs: 779210090
+      finish: 
+        secs: 1566216034
+        nsecs: 903620958
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 315.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216034
+        nsecs: 903620958
+      finish: 
+        secs: 1566216035
+        nsecs:  29136896
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 47.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216035
+        nsecs:  29136896
+      finish: 
+        secs: 1566216035
+        nsecs: 153645038
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216035
+        nsecs: 153645038
+      finish: 
+        secs: 1566216035
+        nsecs: 277920961
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216035
+        nsecs: 277920961
+      finish: 
+        secs: 1566216035
+        nsecs: 403116941
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216035
+        nsecs: 403116941
+      finish: 
+        secs: 1566216035
+        nsecs: 528917074
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 178.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216035
+        nsecs: 528917074
+      finish: 
+        secs: 1566216035
+        nsecs: 777651071
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216035
+        nsecs: 777651071
+      finish: 
+        secs: 1566216035
+        nsecs: 902959108
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216035
+        nsecs: 902959108
+      finish: 
+        secs: 1566216036
+        nsecs:  27110099
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216036
+        nsecs:  27110099
+      finish: 
+        secs: 1566216036
+        nsecs: 153970956
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216036
+        nsecs: 153970956
+      finish: 
+        secs: 1566216036
+        nsecs: 278033018
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216036
+        nsecs: 278033018
+      finish: 
+        secs: 1566216036
+        nsecs: 403450965
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 337.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216036
+        nsecs: 403450965
+      finish: 
+        secs: 1566216036
+        nsecs: 528063058
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 317.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216036
+        nsecs: 528063058
+      finish: 
+        secs: 1566216036
+        nsecs: 652769088
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 346.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216036
+        nsecs: 652769088
+      finish: 
+        secs: 1566216036
+        nsecs: 778978109
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 38.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216036
+        nsecs: 778978109
+      finish: 
+        secs: 1566216036
+        nsecs: 903685092
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 40.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216036
+        nsecs: 903685092
+      finish: 
+        secs: 1566216037
+        nsecs:  29114961
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 38.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216037
+        nsecs:  29114961
+      finish: 
+        secs: 1566216037
+        nsecs: 154000043
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 36.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216037
+        nsecs: 154000043
+      finish: 
+        secs: 1566216037
+        nsecs: 279234886
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 322.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216037
+        nsecs: 279234886
+      finish: 
+        secs: 1566216037
+        nsecs: 403491973
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 313.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216037
+        nsecs: 403491973
+      finish: 
+        secs: 1566216037
+        nsecs: 528132915
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 309.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216037
+        nsecs: 528132915
+      finish: 
+        secs: 1566216037
+        nsecs: 652735948
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 176.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216037
+        nsecs: 652735948
+      finish: 
+        secs: 1566216037
+        nsecs: 778595924
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 43.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216037
+        nsecs: 778595924
+      finish: 
+        secs: 1566216037
+        nsecs: 903124094
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216037
+        nsecs: 903124094
+      finish: 
+        secs: 1566216038
+        nsecs:  27674913
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 180.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216038
+        nsecs:  27674913
+      finish: 
+        secs: 1566216038
+        nsecs: 152983903
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 177.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216038
+        nsecs: 152983903
+      finish: 
+        secs: 1566216038
+        nsecs: 277513027
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 280.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216041
+        nsecs: 656287299
+      finish: 
+        secs: 1566216044
+        nsecs: 527936871
+    hypotheses: 
+      - 
+        recognizedSpeech: ''
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216041
+        nsecs: 528120994
+      finish: 
+        secs: 1566216041
+        nsecs: 656286954
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 266.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216041
+        nsecs: 656286954
+      finish: 
+        secs: 1566216041
+        nsecs: 778801918
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 266.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216041
+        nsecs: 778801918
+      finish: 
+        secs: 1566216041
+        nsecs: 902997970
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 267.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216041
+        nsecs: 902997970
+      finish: 
+        secs: 1566216042
+        nsecs:  28321027
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 268.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216042
+        nsecs:  28321027
+      finish: 
+        secs: 1566216042
+        nsecs: 152508020
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 266.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216042
+        nsecs: 152508020
+      finish: 
+        secs: 1566216042
+        nsecs: 277607917
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 269.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216042
+        nsecs: 277607917
+      finish: 
+        secs: 1566216042
+        nsecs: 402631998
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 266.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216042
+        nsecs: 402631998
+      finish: 
+        secs: 1566216042
+        nsecs: 527626991
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 267.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216042
+        nsecs: 527626991
+      finish: 
+        secs: 1566216042
+        nsecs: 652628898
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 266.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216042
+        nsecs: 652628898
+      finish: 
+        secs: 1566216042
+        nsecs: 777090072
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 263.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216042
+        nsecs: 777090072
+      finish: 
+        secs: 1566216042
+        nsecs: 902861118
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 268.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216042
+        nsecs: 902861118
+      finish: 
+        secs: 1566216043
+        nsecs:  28306007
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 270.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216043
+        nsecs:  28306007
+      finish: 
+        secs: 1566216043
+        nsecs: 152522087
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 269.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216043
+        nsecs: 152522087
+      finish: 
+        secs: 1566216043
+        nsecs: 277627944
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 32.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216043
+        nsecs: 277627944
+      finish: 
+        secs: 1566216043
+        nsecs: 405025005
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 263.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216043
+        nsecs: 405025005
+      finish: 
+        secs: 1566216043
+        nsecs: 529906988
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 270.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216043
+        nsecs: 529906988
+      finish: 
+        secs: 1566216043
+        nsecs: 656099081
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216043
+        nsecs: 656099081
+      finish: 
+        secs: 1566216043
+        nsecs: 778518915
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216043
+        nsecs: 778518915
+      finish: 
+        secs: 1566216043
+        nsecs: 903007030
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216043
+        nsecs: 903007030
+      finish: 
+        secs: 1566216044
+        nsecs:  26942014
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs:  26942014
+      finish: 
+        secs: 1566216044
+        nsecs: 152679920
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 317.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs: 152679920
+      finish: 
+        secs: 1566216044
+        nsecs: 278084993
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 345.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs: 278084993
+      finish: 
+        secs: 1566216044
+        nsecs: 402689933
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 315.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs: 402689933
+      finish: 
+        secs: 1566216044
+        nsecs: 527936935
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 317.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs: 527936935
+      finish: 
+        secs: 1566216044
+        nsecs: 652137041
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 267.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs: 527936871
+      finish: 
+        secs: 1566216047
+        nsecs: 527708448
+    hypotheses: 
+      - 
+        recognizedSpeech: "tell me the number of women in the crowd"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs: 402689933
+      finish: 
+        secs: 1566216044
+        nsecs: 527936935
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 317.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs: 527936935
+      finish: 
+        secs: 1566216044
+        nsecs: 652137041
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 267.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs: 652137041
+      finish: 
+        secs: 1566216044
+        nsecs: 777575016
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 265.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs: 777575016
+      finish: 
+        secs: 1566216044
+        nsecs: 904619932
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 270.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216044
+        nsecs: 904619932
+      finish: 
+        secs: 1566216045
+        nsecs:  29645919
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 270.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216045
+        nsecs:  29645919
+      finish: 
+        secs: 1566216045
+        nsecs: 155198097
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216045
+        nsecs: 155198097
+      finish: 
+        secs: 1566216045
+        nsecs: 278053045
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 266.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216045
+        nsecs: 278053045
+      finish: 
+        secs: 1566216045
+        nsecs: 402966976
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 269.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216045
+        nsecs: 402966976
+      finish: 
+        secs: 1566216045
+        nsecs: 528198957
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 265.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216045
+        nsecs: 528198957
+      finish: 
+        secs: 1566216045
+        nsecs: 652949094
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 267.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216045
+        nsecs: 652949094
+      finish: 
+        secs: 1566216045
+        nsecs: 778522014
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 270.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216045
+        nsecs: 778522014
+      finish: 
+        secs: 1566216045
+        nsecs: 902908086
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 272.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216045
+        nsecs: 902908086
+      finish: 
+        secs: 1566216046
+        nsecs:  27971029
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 265.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216046
+        nsecs:  27971029
+      finish: 
+        secs: 1566216046
+        nsecs: 153328895
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 272.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216046
+        nsecs: 153328895
+      finish: 
+        secs: 1566216046
+        nsecs: 402868032
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 272.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216046
+        nsecs: 402868032
+      finish: 
+        secs: 1566216046
+        nsecs: 528352022
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 309.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216046
+        nsecs: 528352022
+      finish: 
+        secs: 1566216046
+        nsecs: 653198003
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 35.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216046
+        nsecs: 653198003
+      finish: 
+        secs: 1566216046
+        nsecs: 779347896
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 261.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216046
+        nsecs: 779347896
+      finish: 
+        secs: 1566216046
+        nsecs: 904146909
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 306.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216046
+        nsecs: 904146909
+      finish: 
+        secs: 1566216047
+        nsecs:  28690099
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 46.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216047
+        nsecs:  28690099
+      finish: 
+        secs: 1566216047
+        nsecs: 154124975
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216047
+        nsecs: 154124975
+      finish: 
+        secs: 1566216047
+        nsecs: 277528047
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 39.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216047
+        nsecs: 277528047
+      finish: 
+        secs: 1566216047
+        nsecs: 402930974
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 28.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216047
+        nsecs: 402930974
+      finish: 
+        secs: 1566216047
+        nsecs: 527709007
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 33.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216047
+        nsecs: 527709007
+      finish: 
+        secs: 1566216047
+        nsecs: 654540061
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 38.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216060
+        nsecs: 778564599
+      finish: 
+        secs: 1566216062
+        nsecs: 903659901
+    hypotheses: 
+      - 
+        recognizedSpeech: "where is the desk located"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216060
+        nsecs: 904138088
+      finish: 
+        secs: 1566216061
+        nsecs:  29652118
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 97.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216061
+        nsecs:  29652118
+      finish: 
+        secs: 1566216061
+        nsecs: 154901981
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 97.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216061
+        nsecs: 154901981
+      finish: 
+        secs: 1566216061
+        nsecs: 279807090
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 97.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216061
+        nsecs: 279807090
+      finish: 
+        secs: 1566216061
+        nsecs: 404355049
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 97.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216061
+        nsecs: 404355049
+      finish: 
+        secs: 1566216061
+        nsecs: 529570102
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 92.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216061
+        nsecs: 529570102
+      finish: 
+        secs: 1566216061
+        nsecs: 654164075
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 92.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216061
+        nsecs: 654164075
+      finish: 
+        secs: 1566216061
+        nsecs: 779052019
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 98.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216061
+        nsecs: 779052019
+      finish: 
+        secs: 1566216061
+        nsecs: 904052019
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 177.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216061
+        nsecs: 904052019
+      finish: 
+        secs: 1566216062
+        nsecs:  28141975
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 93.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216062
+        nsecs:  28141975
+      finish: 
+        secs: 1566216062
+        nsecs: 152849912
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 321.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216062
+        nsecs: 152849912
+      finish: 
+        secs: 1566216062
+        nsecs: 403764009
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 92.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216062
+        nsecs: 403764009
+      finish: 
+        secs: 1566216062
+        nsecs: 529124975
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216062
+        nsecs: 529124975
+      finish: 
+        secs: 1566216062
+        nsecs: 654146909
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 35.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216062
+        nsecs: 654146909
+      finish: 
+        secs: 1566216062
+        nsecs: 778953075
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 41.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216062
+        nsecs: 778953075
+      finish: 
+        secs: 1566216062
+        nsecs: 903660058
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216062
+        nsecs: 903660058
+      finish: 
+        secs: 1566216063
+        nsecs:  28090953
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216060
+        nsecs: 653764963
+      finish: 
+        secs: 1566216060
+        nsecs: 778564929
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 39.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216060
+        nsecs: 778564929
+      finish: 
+        secs: 1566216060
+        nsecs: 904138088
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 97.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216063
+        nsecs: 527153132
+      finish: 
+        secs: 1566216065
+        nsecs: 903748171
+    hypotheses: 
+      - 
+        recognizedSpeech: "where is the bed located"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216065
+        nsecs:  27549028
+      finish: 
+        secs: 1566216065
+        nsecs: 155271053
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 180.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216065
+        nsecs: 155271053
+      finish: 
+        secs: 1566216065
+        nsecs: 279527902
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 35.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216065
+        nsecs: 279527902
+      finish: 
+        secs: 1566216065
+        nsecs: 404793977
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 35.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216065
+        nsecs: 404793977
+      finish: 
+        secs: 1566216065
+        nsecs: 530093908
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 42.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216065
+        nsecs: 530093908
+      finish: 
+        secs: 1566216065
+        nsecs: 654328107
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 42.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216065
+        nsecs: 654328107
+      finish: 
+        secs: 1566216065
+        nsecs: 778795003
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 33.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216065
+        nsecs: 778795003
+      finish: 
+        secs: 1566216065
+        nsecs: 903748035
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 33.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216065
+        nsecs: 903748035
+      finish: 
+        secs: 1566216066
+        nsecs:  28848886
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216063
+        nsecs: 402461051
+      finish: 
+        secs: 1566216063
+        nsecs: 527153015
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 318.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216063
+        nsecs: 527153015
+      finish: 
+        secs: 1566216063
+        nsecs: 652132034
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 328.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216063
+        nsecs: 652132034
+      finish: 
+        secs: 1566216063
+        nsecs: 777580976
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 93.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216063
+        nsecs: 777580976
+      finish: 
+        secs: 1566216063
+        nsecs: 902661085
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 99.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216063
+        nsecs: 902661085
+      finish: 
+        secs: 1566216064
+        nsecs:  29448986
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 90.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216064
+        nsecs:  29448986
+      finish: 
+        secs: 1566216064
+        nsecs: 154139995
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 91.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216064
+        nsecs: 154139995
+      finish: 
+        secs: 1566216064
+        nsecs: 279130935
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 97.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216064
+        nsecs: 279130935
+      finish: 
+        secs: 1566216064
+        nsecs: 403532981
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 126.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216064
+        nsecs: 403532981
+      finish: 
+        secs: 1566216064
+        nsecs: 528120994
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 343.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216064
+        nsecs: 528120994
+      finish: 
+        secs: 1566216064
+        nsecs: 653338909
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 100.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216064
+        nsecs: 653338909
+      finish: 
+        secs: 1566216064
+        nsecs: 777530908
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 99.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216064
+        nsecs: 777530908
+      finish: 
+        secs: 1566216064
+        nsecs: 902664899
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 92.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216064
+        nsecs: 902664899
+      finish: 
+        secs: 1566216065
+        nsecs:  27549028
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 94.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216070
+        nsecs: 777988626
+      finish: 
+        secs: 1566216073
+        nsecs: 154077732
+    hypotheses: 
+      - 
+        recognizedSpeech: "when was the mounted police formed"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216070
+        nsecs: 653439044
+      finish: 
+        secs: 1566216070
+        nsecs: 777988910
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 320.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216070
+        nsecs: 777988910
+      finish: 
+        secs: 1566216070
+        nsecs: 902420043
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 178.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216070
+        nsecs: 902420043
+      finish: 
+        secs: 1566216071
+        nsecs:  27961015
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216071
+        nsecs:  27961015
+      finish: 
+        secs: 1566216071
+        nsecs: 152878999
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216071
+        nsecs: 152878999
+      finish: 
+        secs: 1566216071
+        nsecs: 278393983
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216071
+        nsecs: 278393983
+      finish: 
+        secs: 1566216071
+        nsecs: 403320074
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216071
+        nsecs: 403320074
+      finish: 
+        secs: 1566216071
+        nsecs: 528136968
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216071
+        nsecs: 528136968
+      finish: 
+        secs: 1566216071
+        nsecs: 653522014
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 39.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216071
+        nsecs: 653522014
+      finish: 
+        secs: 1566216071
+        nsecs: 778539896
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 179.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216071
+        nsecs: 778539896
+      finish: 
+        secs: 1566216071
+        nsecs: 902651071
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 349.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216071
+        nsecs: 902651071
+      finish: 
+        secs: 1566216072
+        nsecs:  27662992
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216072
+        nsecs:  27662992
+      finish: 
+        secs: 1566216072
+        nsecs: 152365922
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 178.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216072
+        nsecs: 152365922
+      finish: 
+        secs: 1566216072
+        nsecs: 277573108
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 177.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216072
+        nsecs: 277573108
+      finish: 
+        secs: 1566216072
+        nsecs: 404071092
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216072
+        nsecs: 404071092
+      finish: 
+        secs: 1566216072
+        nsecs: 529616117
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 349.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216072
+        nsecs: 529616117
+      finish: 
+        secs: 1566216072
+        nsecs: 654366970
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 318.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216072
+        nsecs: 654366970
+      finish: 
+        secs: 1566216072
+        nsecs: 779992103
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 34.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216072
+        nsecs: 779992103
+      finish: 
+        secs: 1566216072
+        nsecs: 904525041
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 29.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216072
+        nsecs: 904525041
+      finish: 
+        secs: 1566216073
+        nsecs: 154078006
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 37.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216073
+        nsecs: 154078006
+      finish: 
+        secs: 1566216073
+        nsecs: 279556035
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 42.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
+speechInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216074
+        nsecs:  27974198
+      finish: 
+        secs: 1566216076
+        nsecs:  28488301
+    hypotheses: 
+      - 
+        recognizedSpeech: "when was the mounted police formed"
+        probability: 1.0
+sslInfo: 
+  - 
+    duration: 
+      start: 
+        secs: 1566216073
+        nsecs: 901998996
+      finish: 
+        secs: 1566216074
+        nsecs:  27973890
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 36.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216074
+        nsecs:  27973890
+      finish: 
+        secs: 1566216074
+        nsecs: 153803110
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 317.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216074
+        nsecs: 153803110
+      finish: 
+        secs: 1566216074
+        nsecs: 278520107
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216074
+        nsecs: 278520107
+      finish: 
+        secs: 1566216074
+        nsecs: 402894020
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216074
+        nsecs: 402894020
+      finish: 
+        secs: 1566216074
+        nsecs: 527508974
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 350.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216074
+        nsecs: 527508974
+      finish: 
+        secs: 1566216074
+        nsecs: 653558015
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216074
+        nsecs: 653558015
+      finish: 
+        secs: 1566216074
+        nsecs: 778604030
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216074
+        nsecs: 778604030
+      finish: 
+        secs: 1566216074
+        nsecs: 904705047
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216074
+        nsecs: 904705047
+      finish: 
+        secs: 1566216075
+        nsecs:  29125928
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 51.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216075
+        nsecs:  29125928
+      finish: 
+        secs: 1566216075
+        nsecs: 153781890
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 349.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216075
+        nsecs: 153781890
+      finish: 
+        secs: 1566216075
+        nsecs: 279556035
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 351.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216075
+        nsecs: 279556035
+      finish: 
+        secs: 1566216075
+        nsecs: 403991937
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 354.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216075
+        nsecs: 403991937
+      finish: 
+        secs: 1566216075
+        nsecs: 530304908
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 178.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216075
+        nsecs: 530304908
+      finish: 
+        secs: 1566216075
+        nsecs: 652360916
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216075
+        nsecs: 652360916
+      finish: 
+        secs: 1566216075
+        nsecs: 779048919
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 352.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216075
+        nsecs: 779048919
+      finish: 
+        secs: 1566216075
+        nsecs: 903189897
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 353.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216075
+        nsecs: 903189897
+      finish: 
+        secs: 1566216076
+        nsecs:  28487920
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 180.0
+  - 
+    duration: 
+      start: 
+        secs: 1566216076
+        nsecs:  28487920
+      finish: 
+        secs: 1566216076
+        nsecs: 153422117
+    directions: 
+      - 
+        sourceId: "no tracking"
+        angleVertical: 0.0
+        angleHorizontal: 4.0
+emotionInfo: []
+genderInfo: []
+vadInfo: []
+voiceIdInfo: []
+---
