@@ -1,0 +1,88 @@
+number of speech recognitions: 22
+secs: 1566215817
+"tell me if the person waving was a boy"
+291.892857143
+
+secs: 1566215822
+"tell me if the person waving was a boy"
+281.741935484
+
+secs: 1566215826
+"was the person sitting a man or woman"
+294.88
+
+secs: 1566215830
+"was the person sitting a man or woman"
+312.208333333
+
+secs: 1566215834
+"where is the couch located"
+290.952380952
+
+secs: 1566215837
+"where is the couch located"
+332.714285714
+
+secs: 1566215841
+"in which room is the sink"
+313.375
+
+secs: 1566215845
+''
+271.045454545
+
+secs: 1566215849
+"how small can a nanobot be"
+286.227272727
+
+secs: 1566215853
+"how small can a nanobot be"
+274.12
+
+secs: 1566215864
+''
+179.875
+
+secs: 1566215868
+"who is the worlds first android"
+224.590909091
+
+secs: 1566215870
+''
+273.461538462
+
+secs: 1566215878
+"where can i find the apple"
+260.0
+
+secs: 1566215880
+"where can i find food"
+253.533333333
+
+secs: 1566215889
+''
+92.2692307692
+
+secs: 1566215892
+''
+141.473684211
+
+secs: 1566215899
+''
+234.333333333
+
+secs: 1566215902
+''
+191.8
+
+secs: 1566215907
+''
+179.2
+
+secs: 1566215910
+"was the person lying down a male"
+260.25
+
+secs: 1566215914
+''
+188.869565217

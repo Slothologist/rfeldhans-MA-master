@@ -1,0 +1,76 @@
+number of speech recognitions: 19
+secs: 1566215982
+''
+342.882352941
+
+secs: 1566215983
+"which room is the bed"
+349.75
+
+secs: 1566215984
+''
+128.4
+
+secs: 1566215988
+"between the orange and paprika which one is bigger"
+313.555555556
+
+secs: 1566215991
+"what is a chatbot"
+274.166666667
+
+secs: 1566215995
+"what is a chatbot"
+242.0
+
+secs: 1566215999
+"where is the bookcase located"
+259.391304348
+
+secs: 1566216002
+"where is the bookcase located"
+276.238095238
+
+secs: 1566216006
+"how many objects are in the side table"
+292.48
+
+secs: 1566216011
+"how many objects are in the side table"
+267.96
+
+secs: 1566216016
+"tell me if the person pointing to the left was a female"
+275.121212121
+
+secs: 1566216021
+"tell me if the person pointing to the left was a female"
+290.485714286
+
+secs: 1566216038
+"which room is the desk"
+248.044444444
+
+secs: 1566216044
+''
+229.56
+
+secs: 1566216047
+"tell me the number of women in the crowd"
+198.92
+
+secs: 1566216062
+"where is the desk located"
+92.9444444444
+
+secs: 1566216065
+"where is the bed located"
+114.476190476
+
+secs: 1566216073
+"when was the mounted police formed"
+234.4
+
+secs: 1566216076
+"when was the mounted police formed"
+276.944444444

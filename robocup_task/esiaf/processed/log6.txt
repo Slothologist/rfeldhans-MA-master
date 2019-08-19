@@ -1,0 +1,96 @@
+number of speech recognitions: 24
+secs: 1566216583
+"in what year was canada invaded by the usa for the first time"
+275.348837209
+
+secs: 1566216587
+"in what year was canada invaded by the usa for the first time"
+334.363636364
+
+secs: 1566216592
+"between the sponge and orange which one is lighter"
+266.2
+
+secs: 1566216594
+''
+307.866666667
+
+secs: 1566216596
+''
+253.266666667
+
+secs: 1566216599
+"what is the color of the chocolate drink"
+298.0
+
+secs: 1566216603
+"what is the color of the chocolate drink"
+312.2
+
+secs: 1566216606
+"where is the sink located"
+301.8125
+
+secs: 1566216609
+"where is the sink located"
+300.3125
+
+secs: 1566216613
+"tell me the number of females in the crowd"
+310.454545455
+
+secs: 1566216616
+''
+343.842105263
+
+secs: 1566216617
+''
+234.5
+
+secs: 1566216622
+"how many sink are in the dining room"
+290.238095238
+
+secs: 1566216625
+"how many sink are in the dining room"
+331.0
+
+secs: 1566216634
+''
+153.933333333
+
+secs: 1566216637
+''
+229.090909091
+
+secs: 1566216642
+"what is a chatbot"
+161.285714286
+
+secs: 1566216645
+''
+82.5333333333
+
+secs: 1566216666
+"whats the color of the knife"
+178.380952381
+
+secs: 1566216668
+''
+258.5
+
+secs: 1566216670
+''
+315.833333333
+
+secs: 1566216671
+''
+296.428571429
+
+secs: 1566216676
+"are self driving cars safe"
+301.833333333
+
+secs: 1566216679
+''
+279.727272727

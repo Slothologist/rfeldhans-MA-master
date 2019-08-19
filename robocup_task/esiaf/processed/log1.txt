@@ -1,0 +1,80 @@
+number of speech recognitions: 20
+secs: 1566215487
+"in which room is the bed"
+251.470588235
+
+secs: 1566215491
+''
+310.933333333
+
+secs: 1566215496
+"how many adults are in the crowd"
+200.655172414
+
+secs: 1566215501
+"how many adults are in the crowd"
+289.791666667
+
+secs: 1566215506
+"what was the first computer bug"
+248.92
+
+secs: 1566215510
+"what was the first computer bug"
+284.590909091
+
+secs: 1566215517
+"tell me if the person raising their right arm was a male"
+272.235294118
+
+secs: 1566215522
+"tell me if the person raising their right arm was a male"
+305.892857143
+
+secs: 1566215526
+"where is the end table located"
+308.777777778
+
+secs: 1566215531
+"where is the end table located"
+294.260869565
+
+secs: 1566215539
+''
+134.916666667
+
+secs: 1566215540
+''
+190.222222222
+
+secs: 1566215544
+''
+114.9
+
+secs: 1566215562
+"how many people in the crowd are standing"
+171.047619048
+
+secs: 1566215565
+"how many people in the crowd are standing"
+223.318181818
+
+secs: 1566215572
+"tell me the number of girls in the crowd"
+267.333333333
+
+secs: 1566215577
+"tell me the number of girls in the crowd"
+259.607142857
+
+secs: 1566215586
+"what is the color of the cup"
+122.588235294
+
+secs: 1566215589
+''
+141.071428571
+
+secs: 1566215590
+''
+154.6

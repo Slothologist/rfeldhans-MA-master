@@ -1,0 +1,96 @@
+number of speech recognitions: 24
+secs: 1566216405
+"how many doors does the corridor have"
+274.259259259
+
+secs: 1566216409
+"how many doors does the corridor have"
+299.88
+
+secs: 1566216413
+"how many males are in the crowd"
+260.681818182
+
+secs: 1566216417
+"how many males are in the crowd"
+264.517241379
+
+secs: 1566216422
+"what objects are stored in the dining table"
+289.448275862
+
+secs: 1566216426
+"what objects are stored in the dining table"
+300.333333333
+
+secs: 1566216432
+''
+264.485714286
+
+secs: 1566216438
+"between the cup and paprika which one is smaller"
+247.0
+
+secs: 1566216439
+''
+188.333333333
+
+secs: 1566216442
+"what does captcha stands for"
+287.958333333
+
+secs: 1566216446
+"what does captcha stands for"
+252.181818182
+
+secs: 1566216451
+''
+217.5
+
+secs: 1566216459
+"where is the exit located"
+135.904761905
+
+secs: 1566216461
+''
+198.5
+
+secs: 1566216469
+''
+185.35
+
+secs: 1566216472
+''
+219.526315789
+
+secs: 1566216475
+''
+187.315789474
+
+secs: 1566216484
+''
+273.2
+
+secs: 1566216487
+"biron how many food are at the exit"
+313.0
+
+secs: 1566216495
+"tell me how many people were wearing yellow"
+85.64
+
+secs: 1566216499
+"tell me how many people were wearing yellow"
+101.64
+
+secs: 1566216508
+''
+194.2
+
+secs: 1566216520
+''
+97.6363636364
+
+secs: 1566216522
+''
+245.5625

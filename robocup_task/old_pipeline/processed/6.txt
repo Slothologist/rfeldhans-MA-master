@@ -1,0 +1,60 @@
+14:09:43 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:168.2941176470588 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:09:43 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_predef, subsymbols=[GrammarNonTerminal [name=predef8, subsymbols=[UtterancePart [word=in what year was canada invaded by the usa for the first time]]]]]]]]]
+
+14:09:48 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:185.125 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:09:48 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_predef, subsymbols=[GrammarNonTerminal [name=predef8, subsymbols=[UtterancePart [word=in what year was canada invaded by the usa for the first time]]]]]]]]]
+
+14:09:53 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:172.25 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:09:53 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_obj, subsymbols=[GrammarNonTerminal [name=obj9, subsymbols=[UtterancePart [word=between], UtterancePart [word=the], GrammarNonTerminal [name=object, subsymbols=[UtterancePart [word=sausages]]], UtterancePart [word=and], GrammarNonTerminal [name=object, subsymbols=[UtterancePart [word=orange]]], UtterancePart [word=which one is], GrammarNonTerminal [name=adjektiv_compare, subsymbols=[UtterancePart [word=lighter]]]]]]]]]]]
+
+14:09:57 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:165.53846153846155 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:10:00 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:179.57142857142858 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:10:00 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_obj, subsymbols=[GrammarNonTerminal [name=obj3, subsymbols=[UtterancePart [word=what is], UtterancePart [word=the], GrammarNonTerminal [name=property, subsymbols=[UtterancePart [word=color]]], UtterancePart [word=of the], GrammarNonTerminal [name=object, subsymbols=[UtterancePart [word=chocolate drink]]]]]]]]]]]
+
+14:10:03 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:173.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:10:03 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_obj, subsymbols=[GrammarNonTerminal [name=obj3, subsymbols=[UtterancePart [word=what is], UtterancePart [word=the], GrammarNonTerminal [name=property, subsymbols=[UtterancePart [word=color]]], UtterancePart [word=of the], GrammarNonTerminal [name=object, subsymbols=[UtterancePart [word=chocolate drink]]]]]]]]]]]
+
+14:10:06 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:220.375 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:10:06 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_arena, subsymbols=[GrammarNonTerminal [name=arena1, subsymbols=[UtterancePart [word=where is the], GrammarNonTerminal [name=location, subsymbols=[UtterancePart [word=sink]]], UtterancePart [word=located]]]]]]]]]
+
+14:10:10 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:158.875 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:10:10 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_arena, subsymbols=[GrammarNonTerminal [name=arena1, subsymbols=[UtterancePart [word=where is the], GrammarNonTerminal [name=location, subsymbols=[UtterancePart [word=sink]]], UtterancePart [word=located]]]]]]]]]
+
+14:10:14 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:191.9 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:10:18 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:205.91666666666666 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:10:18 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_crowd, subsymbols=[GrammarNonTerminal [name=crowd3, subsymbols=[UtterancePart [word=tell me the number of], GrammarNonTerminal [name=people, subsymbols=[GrammarNonTerminal [name=people_gender, subsymbols=[UtterancePart [word=females]]]]], UtterancePart [word=in the crowd]]]]]]]]]
+
+14:10:23 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:140.66666666666666 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:10:23 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_arena, subsymbols=[GrammarNonTerminal [name=arena4, subsymbols=[UtterancePart [word=how many], GrammarNonTerminal [name=location, subsymbols=[UtterancePart [word=sink]]], UtterancePart [word=are in the], GrammarNonTerminal [name=room, subsymbols=[UtterancePart [word=dining room]]]]]]]]]]]
+
+14:10:26 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:204.875 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:10:35 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:166.25 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:10:37 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:107.5 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:10:43 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:215.42857142857142 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:10:43 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_predef, subsymbols=[GrammarNonTerminal [name=predef42, subsymbols=[UtterancePart [word=what is a chatbot]]]]]]]]]
+
+14:10:46 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:146.71428571428572 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:10:46 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_obj, subsymbols=[GrammarNonTerminal [name=obj4, subsymbols=[UtterancePart [word=how many], GrammarNonTerminal [name=category, subsymbols=[UtterancePart [word=food]]], UtterancePart [word=are], UtterancePart [word=at], UtterancePart [word=the], GrammarNonTerminal [name=location, subsymbols=[UtterancePart [word=bed]]]]]]]]]]]
+
+14:10:55 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:181.77777777777777 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:10:58 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:161.85714285714286 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:11:00 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:138.5 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:11:06 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:151.14285714285714 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:11:06 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_obj, subsymbols=[GrammarNonTerminal [name=obj3, subsymbols=[UtterancePart [word=whats], UtterancePart [word=the], GrammarNonTerminal [name=property, subsymbols=[UtterancePart [word=color]]], UtterancePart [word=of the], GrammarNonTerminal [name=object, subsymbols=[UtterancePart [word=cup]]]]]]]]]]]
+
+14:11:08 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:266.14285714285717 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:11:11 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:224.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:11:16 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:175.66666666666666 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+
+14:11:20 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:179.125 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
+14:11:20 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_predef, subsymbols=[GrammarNonTerminal [name=predef43, subsymbols=[UtterancePart [word=are self driving cars safe]]]]]]]]]

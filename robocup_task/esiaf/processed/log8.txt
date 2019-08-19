@@ -1,0 +1,92 @@
+number of speech recognitions: 23
+secs: 1566216946
+"who is considered to be the first computer programmer"
+288.516129032
+
+secs: 1566216950
+"who is considered to be the first computer programmer"
+315.269230769
+
+secs: 1566216954
+"where can i find the orange"
+284.9
+
+secs: 1566216957
+"where can i find the orange"
+262.157894737
+
+secs: 1566216960
+"in which room is the end table"
+332.1875
+
+secs: 1566216964
+"in which room is the end table"
+291.210526316
+
+secs: 1566216970
+"was the person sitting a boy or girl"
+295.961538462
+
+secs: 1566216974
+"was the person sitting a boy or girl"
+283.884615385
+
+secs: 1566216979
+"in which room is the dining table"
+270.78125
+
+secs: 1566216982
+"in which room is the dining table"
+251.653846154
+
+secs: 1566216991
+"what is a chatbot"
+118.238095238
+
+secs: 1566216993
+''
+105.277777778
+
+secs: 1566216996
+''
+123.3
+
+secs: 1566216999
+''
+155.4
+
+secs: 1566217000
+''
+214.0
+
+secs: 1566217003
+''
+172.6
+
+secs: 1566217011
+''
+181.24
+
+secs: 1566217013
+''
+192.083333333
+
+secs: 1566217016
+''
+209.375
+
+secs: 1566217021
+"name three famous female canadians"
+310.346153846
+
+secs: 1566217025
+"name three famous female canadians"
+292.84
+
+secs: 1566217032
+''
+165.090909091
+
+secs: 1566217035
+''
+121.133333333

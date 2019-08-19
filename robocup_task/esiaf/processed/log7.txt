@@ -1,0 +1,100 @@
+number of speech recognitions: 25
+secs: 1566216746
+''
+206.636363636
+
+secs: 1566216749
+"was the person lying down a man or woman"
+324.863636364
+
+secs: 1566216753
+"was the person lying down a man or woman"
+288.2
+
+secs: 1566216758
+"tell me the number of adults in the crowd"
+256.214285714
+
+secs: 1566216762
+"tell me the number of adults in the crowd"
+306.310344828
+
+secs: 1566216765
+"in which room is the side table"
+302.368421053
+
+secs: 1566216769
+"in which room is the side table"
+296.291666667
+
+secs: 1566216774
+"how many dining table are in the corridor"
+291.115384615
+
+secs: 1566216778
+"how many dining table are in the corridor"
+291.391304348
+
+secs: 1566216782
+"what is a nanobot"
+228.333333333
+
+secs: 1566216784
+"what is a nanobot"
+291.230769231
+
+secs: 1566216786
+''
+109.090909091
+
+secs: 1566216796
+"how many food are by the end table"
+323.318181818
+
+secs: 1566216797
+''
+244.666666667
+
+secs: 1566216798
+''
+347.5
+
+secs: 1566216802
+''
+125.545454545
+
+secs: 1566216805
+''
+98.0714285714
+
+secs: 1566216807
+''
+142.923076923
+
+secs: 1566216813
+''
+215.571428571
+
+secs: 1566216820
+''
+184.0
+
+secs: 1566216824
+"what is the category of the crackers"
+235.0
+
+secs: 1566216828
+''
+228.875
+
+secs: 1566216830
+''
+200.375
+
+secs: 1566216837
+"tell me how many people were wearing blue"
+330.944444444
+
+secs: 1566216841
+''
+271.7
