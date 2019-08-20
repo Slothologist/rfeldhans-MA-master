@@ -39,19 +39,19 @@ secs: 1566216257
 "what is the ai knowledge engineering bottleneck"
 295.612903226
 
-secs: 1566216263
+secs: 1566216263 ----ignore
 ''
 122.833333333
 
-secs: 1566216264
+secs: 1566216264 ----ignore
 ''
 200.0
 
-secs: 1566216271
+secs: 1566216271 a1
 ''
 274.75
 
-secs: 1566216274
+secs: 1566216274 a2
 "what else is montreal called"
 228.48
 
@@ -59,34 +59,34 @@ secs: 1566216278
 ''
 89.1428571429
 
-secs: 1566216279
+secs: 1566216279 b1
 ''
 126.666666667
 
-secs: 1566216282
+secs: 1566216282 b2
 ''
 129.944444444
 
-secs: 1566216290
+secs: 1566216290 c1
 ''
 138.368421053
 
-secs: 1566216304
+secs: 1566216304 d1
 "whats the size of the tray"
 238.782608696
 
-secs: 1566216309
+secs: 1566216309 d2
 "what objects are stored in the end table"
 200.615384615
 
-secs: 1566216312
+secs: 1566216312 ----ignore
 ''
 107.9
 
 secs: 1566216320
-"where is the dishwasher located"
+"where is the dishwasher located" e1
 206.826086957
 
 secs: 1566216324
-"where is the dishwasher located"
+"where is the dishwasher located" e2
 247.75
