@@ -1,3 +1,4 @@
+ignore:
 13:56:50 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:108.5 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
 13:56:57 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:159.2 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
@@ -38,6 +39,7 @@
 
 13:57:50 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:148.5 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore:
 13:57:54 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:178.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
 13:57:59 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:189.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
@@ -53,12 +55,14 @@
 
 13:58:13 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:171.27272727272728 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore:
 13:58:16 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:173.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
 13:58:20 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:173.33333333333334 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
 13:58:22 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:149.71428571428572 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore:
 13:58:27 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:176.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
 13:58:31 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:141.625 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]

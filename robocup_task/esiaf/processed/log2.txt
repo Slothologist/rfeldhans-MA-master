@@ -39,50 +39,50 @@ secs: 1566215853
 "how small can a nanobot be"
 274.12
 
-secs: 1566215864
+secs: 1566215864 ----------------------ignore
 ''
 179.875
 
-secs: 1566215868
+secs: 1566215868 a1
 "who is the worlds first android"
 224.590909091
 
-secs: 1566215870
+secs: 1566215870 a2
 ''
 273.461538462
 
-secs: 1566215878
+secs: 1566215878 b1
 "where can i find the apple"
 260.0
 
-secs: 1566215880
+secs: 1566215880 b2
 "where can i find food"
 253.533333333
 
-secs: 1566215889
+secs: 1566215889 c1
 ''
 92.2692307692
 
-secs: 1566215892
+secs: 1566215892 c2
 ''
 141.473684211
 
-secs: 1566215899
+secs: 1566215899 d1
 ''
 234.333333333
 
-secs: 1566215902
+secs: 1566215902 d2
 ''
 191.8
 
-secs: 1566215907
+secs: 1566215907 ----------- ignore
 ''
 179.2
 
-secs: 1566215910
+secs: 1566215910 e1
 "was the person lying down a male"
 260.25
 
-secs: 1566215914
+secs: 1566215914 e2
 ''
 188.869565217
