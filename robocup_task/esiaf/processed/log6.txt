@@ -47,11 +47,11 @@ secs: 1566216617
 ''
 234.5
 
-secs: 1566216622
+secs: 1566216622 a1
 "how many sink are in the dining room"
 290.238095238
 
-secs: 1566216625
+secs: 1566216625 a2
 "how many sink are in the dining room"
 331.0
 
@@ -63,15 +63,15 @@ secs: 1566216637
 ''
 229.090909091
 
-secs: 1566216642
+secs: 1566216642 b1
 "what is a chatbot"
 161.285714286
 
-secs: 1566216645
+secs: 1566216645 b2
 ''
 82.5333333333
 
-secs: 1566216666
+secs: 1566216666 d1
 "whats the color of the knife"
 178.380952381
 
@@ -79,7 +79,7 @@ secs: 1566216668
 ''
 258.5
 
-secs: 1566216670
+secs: 1566216670 d2
 ''
 315.833333333
 
@@ -87,10 +87,10 @@ secs: 1566216671
 ''
 296.428571429
 
-secs: 1566216676
+secs: 1566216676 e1
 "are self driving cars safe"
 301.833333333
 
-secs: 1566216679
+secs: 1566216679  e2
 ''
 279.727272727
