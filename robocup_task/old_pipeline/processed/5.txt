@@ -1,3 +1,4 @@
+ignore:
 14:06:41 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:173.33333333333334 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
 14:06:45 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:194.9 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
@@ -6,11 +7,13 @@
 14:06:49 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:172.11111111111111 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 14:06:49 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_arena, subsymbols=[GrammarNonTerminal [name=arena3, subsymbols=[UtterancePart [word=how many doors does the], GrammarNonTerminal [name=room, subsymbols=[UtterancePart [word=corridor]]], UtterancePart [word=have]]]]]]]]]
 
+ignore:
 14:06:50 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:245.5 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
 14:06:53 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:178.25 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 14:06:53 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_crowd, subsymbols=[GrammarNonTerminal [name=crowd1, subsymbols=[UtterancePart [word=how many], GrammarNonTerminal [name=people, subsymbols=[GrammarNonTerminal [name=people_gender, subsymbols=[UtterancePart [word=males]]]]], UtterancePart [word=are in the crowd]]]]]]]]]
 
+ignore:
 14:06:54 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:256.3333333333333 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
 14:06:57 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:170.875 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
@@ -19,6 +22,7 @@
 14:07:03 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:158.72727272727272 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 14:07:03 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_obj, subsymbols=[GrammarNonTerminal [name=obj5, subsymbols=[UtterancePart [word=what objects are stored], UtterancePart [word=in], UtterancePart [word=the], GrammarNonTerminal [name=location, subsymbols=[UtterancePart [word=dining table]]]]]]]]]]]
 
+ignore:
 14:07:03 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:225.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
 14:07:07 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:166.4 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
@@ -36,42 +40,64 @@
 14:07:26 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:157.125 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 14:07:26 DEBUG ObjectSlot: memorized GrammarNonTerminal [name=, subsymbols=[GrammarNonTerminal [name=question, subsymbols=[GrammarNonTerminal [name=quest_predef, subsymbols=[GrammarNonTerminal [name=predef32, subsymbols=[UtterancePart [word=what does], UtterancePart [word=captcha], UtterancePart [word=stands for]]]]]]]]]
 
+---------------------------------
+
+ignore:
 14:07:31 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:101.5 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore:
 14:07:35 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:227.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore:
 14:07:36 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:247.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+a1
 14:07:38 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:131.71428571428572 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+a2
 14:07:42 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:163.2 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore:
 14:07:48 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:240.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+b1
 14:07:49 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:177.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore:
 14:07:52 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:196.75 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+b2
 14:07:53 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:133.66666666666666 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+c1
 14:08:03 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:160.90000000000003 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+c2
 14:08:08 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:181.2 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore:
 14:08:10 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:223.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+d1
 14:08:15 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:170.5 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+d2
 14:08:20 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:172.36363636363637 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore
 14:08:21 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:176.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+e1
 14:08:30 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:193.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore
 14:08:32 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:206.9 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+e2
 14:08:35 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:354.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore
 14:08:40 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:213.6 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]
 
+ignore
 14:08:43 DEBUG ObjectSlot: memorized NavigationGoalData[ x:0.0 y:0.0 yaw:174.0 coordinateTolerance:25.0 yawTolerance:6.283185307179586 frame:map ]

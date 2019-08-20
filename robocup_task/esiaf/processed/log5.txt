@@ -43,54 +43,57 @@ secs: 1566216446
 "what does captcha stands for"
 252.181818182
 
-secs: 1566216451
+
+-----------------------------------------------
+
+secs: 1566216451 ---- ignore
 ''
 217.5
 
-secs: 1566216459
+secs: 1566216459 a1
 "where is the exit located"
 135.904761905
 
-secs: 1566216461
+secs: 1566216461 a2
 ''
 198.5
 
-secs: 1566216469
+secs: 1566216469 b1
 ''
 185.35
 
-secs: 1566216472
+secs: 1566216472 b2
 ''
 219.526315789
 
-secs: 1566216475
+secs: 1566216475 -----ignore
 ''
 187.315789474
 
-secs: 1566216484
+secs: 1566216484 c1
 ''
 273.2
 
-secs: 1566216487
+secs: 1566216487 c2
 "biron how many food are at the exit"
 313.0
 
-secs: 1566216495
+secs: 1566216495 d1
 "tell me how many people were wearing yellow"
 85.64
 
-secs: 1566216499
+secs: 1566216499 d2
 "tell me how many people were wearing yellow"
 101.64
 
-secs: 1566216508
+secs: 1566216508 e1
 ''
 194.2
 
-secs: 1566216520
+secs: 1566216520 ---ignore
 ''
 97.6363636364
 
-secs: 1566216522
+secs: 1566216522 ----ignore
 ''
 245.5625
