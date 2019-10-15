@@ -1,5 +1,5 @@
 # rfeldhans-MA-master
-Master repository for my master thesis. Contains documentation and links to all parts of the thesis.
+Master repository for my master thesis. Contains documentation and links to parts of the thesis.
 
 # Thesis text
 The repository containing the latex source files (and a .pdf) can be found [here](https://github.com/Slothologist/MasterThesis).
